@@ -89,3 +89,4 @@ To run this program, you will require a bunch of API keys. Register your API key
 - Tells your IP address with detail
 - Plays music and send emails
 - Answer any question
+>*** There shall be proper Documentation available on its Official GitHub repository for making further development easy, we aim to release our virtual assistant as an Open-Source Software where modifications and contributions by the community are warmly welcomed.***
