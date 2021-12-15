@@ -1,0 +1,2 @@
+# The-Fraddy
+Fraddy is a Python Module which is able to perform task like Chatbot, Assistant etc. It provides the basic functionality for any assistant application. This Fraddy is built using Python, Pytorch, and other open-source libraries and frameworks.  This project is created for those, who want to make, heavy tasks easier in their day-to-day life. Generally, it took lots of time to write code from scratch to build Virtual Assistant. So, we have used pre-installed libraries, which gives you easy functionality to build your own Virtual Assistant.
