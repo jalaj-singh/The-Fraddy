@@ -51,3 +51,33 @@ To run this program, you will require a bunch of API keys. Register your API key
 
 
 > Framework - pyaudio, Sapi5 (it comes with windows10 OS)[voice id: 0 (male)]
+
+## Features-
+>It can do a lot of cool things, some of them being:
+
+-	Greet user
+-	Tell current time and date
+-	Launch applications/software's
+-	Open any website
+-	Tells about weather of any city
+-	Tells your current system status (RAM Usage, battery health, CPU usage)
+-	Tells about any person (via Wikipedia)
+-	Can search anything on Google
+-	Can play any song on YouTube
+-	Tells top headlines (via Times of India)
+-	Plays music (via Local Folder)
+-	Send email (with subject and content)
+-	Calculate any basic mathematical expression
+-	Answer any generic question
+-	Take important note in notepad
+-	Tells a random joke
+-	Tells your IP address
+-	Can switch off or reboot the system
+-	Can take screenshot and save it with custom filename
+-	Can hide all files in a folder and also make them visible again
+-	Command line user interface
+-	Get IP details 
+-	Can search anything on YouTube
+-	Can take command (via Keyboard)
+-	Access Linux using remote connection
+
