@@ -9,4 +9,8 @@ No matter how busy you’re, just wake up Fraddy, tell him to perform a task for
 This Program aims at developing a personal assistant for windows-based systems. The main purpose of the software is to perform the tasks of the user at certain commands, provided in either of the ways, speech or text. It will ease most of the work of the user as a complete task can be done on a single command. Fraddy draws its inspiration from Virtual assistants like Google Assistant for Android, Siri for iOS etc. Users can interact with the assistant either through voice commands or keyboard input.
 
 
-##Requirements-
+## Requirements-
+o	Windows 8 or above
+o	Processor: Intel i3 or Ryzen 3 and above
+o	Python (> 3.0)
+
