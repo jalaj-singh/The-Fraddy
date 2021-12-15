@@ -90,5 +90,6 @@ To run this program, you will require a bunch of API keys. Register your API key
 - Plays music and send emails
 - Answer any question
 >***There shall be proper Documentation available on its Official GitHub repository for making further development easy, we aim to release our virtual assistant as an Open-Source Software where modifications and contributions by the community are warmly welcomed.***
-##Conclusion:
+
+## Conclusion:
 Through this voice assistant, we have automated various services using a single line command. It eases most of the tasks of the user like searching the web, retrieving weather forecast details, vocabulary help and medical related queries. We aim to make this project a complete server assistant and make it smart enough to act as a replacement for a general server administration. The future plans include integrating Fraddy with mobile using React Native to provide a synchronized experience between the two connected devices. Further, in the long run, Fraddy is planned to feature auto deployment supporting elastic beanstalk, backup files, and all operations which a general Server Administrator does. The functionality would be seamless enough to replace the Server Administrator with Fraddy. We are planning to use Fraddy with Docker, so different people can have virtual space for Fraddy
