@@ -47,4 +47,5 @@ To run this program, you will require a bunch of API keys. Register your API key
 -	paramiko
 
 ## Technologies Used:
-> Language- Python
+> Language - Python
+> Framework - pyaudio, Sapi5 (it comes with windows10 OS)[voice id: 0 (male)]
