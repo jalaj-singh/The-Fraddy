@@ -14,3 +14,8 @@ o	Windows 8 or above
 o	Processor: Intel i3 or Ryzen 3 and above
 o	Python (> 3.0)
 
+## API Keys-
+To run this program, you will require a bunch of API keys. Register your API key by clicking the following links
+-	OpenWeatherMap API
+-	Google Calendar API
+-	WolframAlpha API
