@@ -45,3 +45,6 @@ To run this program, you will require a bunch of API keys. Register your API key
 -	time
 -	subprocess
 -	paramiko
+
+## Technologies Used:
+> Language- Python
