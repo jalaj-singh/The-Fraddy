@@ -81,3 +81,11 @@ To run this program, you will require a bunch of API keys. Register your API key
 -	Can take command (via Keyboard)
 -	Access Linux using remote connection
 
+## Scope
+>Fraddy can be used in Railway stations, Airports, Government agencies, Research Organizations, Hospitals, Hotels, Colleges and the most importantly at Home by each member for different purposes.
+>Presently, Fraddy is being developed as an automation tool and virtual assistant. Among the Various roles played by Fraddy are: 
+- Search Engine with voice interactions 
+- Tells a random joke
+- Tells your IP address with detail
+- Plays music and send emails
+- Answer any question
