@@ -48,4 +48,6 @@ To run this program, you will require a bunch of API keys. Register your API key
 
 ## Technologies Used:
 > Language - Python
+
+
 > Framework - pyaudio, Sapi5 (it comes with windows10 OS)[voice id: 0 (male)]
