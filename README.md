@@ -14,8 +14,34 @@ This Program aims at developing a personal assistant for windows-based systems. 
 -	Processor: Intel i3 or Ryzen 3 and above
 -	Python (> 3.0)
 
-## API Keys-
+### API Keys-
 To run this program, you will require a bunch of API keys. Register your API key by clicking the following links
 -	OpenWeatherMap API
 -	Google Calendar API
 -	WolframAlpha API
+### Library used-
+- pyttsx3
+-	requests
+-	json
+-	paramiko
+-	webbrowser
+-	smtplib
+-	random
+-	speechRecognition
+-	wikipedia
+-	datetime
+-	wolframalpha
+-	os
+-	sys
+-	googlesearch
+-	platform
+-	win32com
+-	pyautogui
+-	selenium.webdriver
+-	selenium.webdriver.support.ui 
+-	selenium.webdriver.support 
+-	selenium.webdriver.common.by
+-	selenium.webdriver.common.keys
+-	time
+-	subprocess
+-	paramiko
