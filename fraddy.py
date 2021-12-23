@@ -30,7 +30,7 @@ import time
 
 engine = pyttsx3.init('sapi5')
 
-client = wolframalpha.Client('4L3Q5Q-T6RHHHXPJ2')
+client = wolframalpha.Client('API ID')
 
 voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[0].id)
@@ -45,8 +45,8 @@ def sendEmail(to, content):
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
     server.starttls()
-    server.login('t5987726@gmail.com', '7669247298')
-    server.sendmail('t5987726@gmail.com', to, content)
+    server.login('<You Gmail ID>', '<Password>')
+    server.sendmail('<You Gmail ID>', to, content)
     server.close()
 
 
@@ -151,7 +151,7 @@ if __name__ == '__main__':
                 query_params = {
                   "source": "bbc-news",
                   "sortBy": "top",
-                  "apiKey": "4272f1f9a4f643588bab78d58d3acf2d"
+                  "apiKey": "API KEY"
                 }
                 main_url = " https://newsapi.org/v1/articles"
              
@@ -192,7 +192,7 @@ if __name__ == '__main__':
                 return local_time.time()
 
             # Enter your API key
-            api_key = "4e92fd21e7f60643ec54ca1972052500"
+            api_key = "<API KEY>"
 
             # Get city name from user
             city_name = "noida"
@@ -306,9 +306,9 @@ if __name__ == '__main__':
 
             port = 22
 
-            username = "hellcat"
+            username = "USERNAME"
 
-            password = "JP@singh"
+            password = "PASSWORD"
 
 
             command = "cd /opt/IPGeoLocation/ && python3 ipgeolocation.py -m > tt.txt"
@@ -371,9 +371,9 @@ if __name__ == '__main__':
 
             port = 22
 
-            username = "hellcat"
+            username = "USERNAME"
 
-            password = "JP@singh"
+            password = "PASSWORD"
 
             command = "cd /opt/IPGeoLocation/ && cat tt.txt"
             #command = "cat Untitled1.ipynb"
@@ -398,9 +398,9 @@ if __name__ == '__main__':
 
             port = 22
 
-            username = "hellcat"
+            username = "USERNAME"
 
-            password = "JP@singh"
+            password = "PASSWORD"
             speak('What command do you want to execute ??')
 
             command = myCommand()
@@ -445,7 +445,7 @@ if __name__ == '__main__':
             try:
                 speak("What should I say?")
                 content = myCommand()
-                to = "tt613562@gmail.com"
+                to = "Email ID"
                 sendEmail(to, content)
                 speak("Email has been sent!")
             except Exception as e:
