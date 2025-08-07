@@ -1,0 +1,10 @@
+pyttsx3
+requests
+paramiko
+SpeechRecognition
+wikipedia
+wolframalpha
+googlesearch-python
+selenium
+pyautogui
+pyaudio

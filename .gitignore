@@ -1,0 +1,10 @@
+# Ignore the config file with sensitive information
+config.ini
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,28 @@
+[DEFAULT]
+# Add your API keys and credentials here
+# You can get your keys from the respective websites
+
+[WOLFRAMALPHA]
+APP_ID = YOUR_APP_ID
+
+[OPENWEATHERMAP]
+API_KEY = YOUR_API_KEY
+
+[NEWSAPI]
+API_KEY = YOUR_API_KEY
+
+[GMAIL]
+EMAIL = YOUR_EMAIL@gmail.com
+PASSWORD = YOUR_PASSWORD
+
+[SSH]
+HOST = YOUR_SSH_HOST
+USER = YOUR_SSH_USER
+PASSWORD = YOUR_SSH_PASSWORD
+
+[PATHS]
+# Optional: Add full paths to applications if they are not in standard locations
+PYCHARM = C:\Program Files\JetBrains\PyCharm Community Edition 2023.1\bin\pycharm64.exe
+VSCODE = C:\Users\YourUser\AppData\Local\Programs\Microsoft VS Code\Code.exe
+CHROME_DRIVER = C:\path\to\your\chromedriver.exe
+MUSIC_FOLDER = C:\Users\YourUser\Music

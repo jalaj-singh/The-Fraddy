@@ -9,42 +9,41 @@ No matter how busy you’re, just wake up Fraddy, tell him to perform a task for
 This Program aims at developing a personal assistant for windows-based systems. The main purpose of the software is to perform the tasks of the user at certain commands, provided in either of the ways, speech or text. It will ease most of the work of the user as a complete task can be done on a single command. Fraddy draws its inspiration from Virtual assistants like Google Assistant for Android, Siri for iOS etc. Users can interact with the assistant either through voice commands or keyboard input.
 
 
-## Requirements-
--	Windows 8 or above
--	Processor: Intel i3 or Ryzen 3 and above
--	Python (> 3.0)
+## Requirements
+- Python 3.8+
+- A working microphone
 
-### API Keys-
-To run this program, you will require a bunch of API keys. Register your API key by clicking the following links
--	OpenWeatherMap API
--	Google Calendar API
--	WolframAlpha API
-### Library used-
-- pyttsx3
--	requests
--	json
--	paramiko
--	webbrowser
--	smtplib
--	random
--	speechRecognition
--	wikipedia
--	datetime
--	wolframalpha
--	os
--	sys
--	googlesearch
--	platform
--	win32com
--	pyautogui
--	selenium.webdriver
--	selenium.webdriver.support.ui 
--	selenium.webdriver.support 
--	selenium.webdriver.common.by
--	selenium.webdriver.common.keys
--	time
--	subprocess
--	paramiko
+## Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-repo/The-Fraddy.git
+    cd The-Fraddy
+    ```
+
+2.  **Create a virtual environment (recommended):**
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    ```
+
+3.  **Install the dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+    **Note for Windows users:** The `pyttsx3` library uses the `SAPI5` engine, which may require the `pywin32` package. If you encounter errors, please install it manually:
+    ```bash
+    pip install pywin32
+    ```
+
+4.  **Configure the application:**
+    - Rename `config.ini.example` to `config.ini`.
+    - Open `config.ini` and add your API keys and credentials for the features you want to use.
+
+## Running the Assistant
+```bash
+python src/main.py
+```
 
 ## Technologies Used:
 > Language - Python
