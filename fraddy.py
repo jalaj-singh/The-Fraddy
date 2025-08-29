@@ -277,7 +277,7 @@ if __name__ == '__main__':
 
             username = "hellcat"
 
-            password = "JP@singh"
+            password = "PASSWORD"
             usercmd=input("Enter IP ADDRESS :")
 
 
@@ -450,7 +450,7 @@ if __name__ == '__main__':
                 speak("Email has been sent!")
             except Exception as e:
                 print(e)
-                speak("Sorry jalaj bhai. I am not able to send this email")
+                speak("Sorry JP bhai. I am not able to send this email")
                     
             
 
@@ -506,3 +506,4 @@ if __name__ == '__main__':
                    print(j)
 
         speak('Next Command! Sir!')
+
